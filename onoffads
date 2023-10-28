@@ -6,7 +6,7 @@
     "AdsSetActive": 0,
      //on , of
     "ironsourceid": "17c56b255",
-    "ADSremot": 0 ,
+    "ADSremot": 1 ,
  //1 =  ironsource / 2= applovin
     "Rewordapplovin": "41"
   }
